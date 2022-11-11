@@ -7,3 +7,7 @@ feel free to recode the bot and make it into whatever you please!
 
 prebuilt version of the bot:
 https://discord.com/api/oauth2/authorize?client_id=1040718139199082546&permissions=8&scope=bot
+
+Admin commands
+!deport - Kick
+!ban
